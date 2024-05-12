@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Power-GYM/static/css/main.44f68769.css",
+    "main.js": "/Power-GYM/static/js/main.61b5beac.js",
+    "static/js/787.4e13ced0.chunk.js": "/Power-GYM/static/js/787.4e13ced0.chunk.js",
+    "static/media/_DSC2543-cover.jpg": "/Power-GYM/static/media/_DSC2543-cover.e9ab4ae7698d362c84f7.jpg",
+    "static/media/t-image1.png": "/Power-GYM/static/media/t-image1.c16c2c261034cf78ee57.png",
+    "static/media/image1.jpg": "/Power-GYM/static/media/image1.54806b2cbb62e00a7c0c.jpg",
+    "static/media/t-image3.jpg": "/Power-GYM/static/media/t-image3.3894413f7bf2b4f1fc54.jpg",
+    "static/media/image3.png": "/Power-GYM/static/media/image3.69484cb0ee7687a8c28b.png",
+    "static/media/image4.png": "/Power-GYM/static/media/image4.2c0d30b9ce1579eb1109.png",
+    "static/media/t-image2.jpg": "/Power-GYM/static/media/t-image2.f5d2e52e514c544dfffb.jpg",
+    "static/media/image2.jpg": "/Power-GYM/static/media/image2.80dcc945376e6eedfd84.jpg",
+    "static/media/hero_image_back.png": "/Power-GYM/static/media/hero_image_back.9f54bfba33048f4ca688.png",
+    "index.html": "/Power-GYM/index.html",
+    "main.44f68769.css.map": "/Power-GYM/static/css/main.44f68769.css.map",
+    "main.61b5beac.js.map": "/Power-GYM/static/js/main.61b5beac.js.map",
+    "787.4e13ced0.chunk.js.map": "/Power-GYM/static/js/787.4e13ced0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f68769.css",
+    "static/js/main.61b5beac.js"
+  ]
+}
